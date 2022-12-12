@@ -2,7 +2,7 @@
 const fs = require("fs");
 const path = require("path");
 
-const f = fs.readFileSync(path.join(__dirname, "input/1.t.txt")).toString();
+const f = fs.readFileSync(path.join(__dirname, "input/1.txt")).toString();
 
 const compute = (input) => {
   const elves = input.split("\r\n\r\n");
@@ -12,6 +12,8 @@ const compute = (input) => {
       return Number(a) + Number(c);
     }, 0);
   });
-  console.log(caloriesByElves);
+  caloriesByElves.sort((a, b) => a - b);
+  const highestElfCalorie = caloriesByElves.slice(-1);
+  console.log(highestElfCalorie);
 };
 compute(f);
