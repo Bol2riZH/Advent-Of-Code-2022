@@ -29,6 +29,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/00_DATA_B2Rog/Advent-of-code-2022/Day1",
     "nodejs_interpreter_path": "node",
     "nodejs_package_manager_path": "npm",
     "prettierjs.PrettierConfiguration.Package": "C:\\Users\\reung\\AppData\\Roaming\\npm\\node_modules\\prettier",
@@ -37,6 +38,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\00_DATA_B2Rog\Advent-of-code-2022\Day1" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\00_DATA_B2Rog\Advent-of-code-2022\Day1" />
       <recent name="C:\00_DATA_B2Rog\Advent-of-code-2022\Day1\1-1" />
@@ -50,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670835795858</updated>
-      <workItem from="1670835797706" duration="815000" />
+      <workItem from="1670835797706" duration="1640000" />
     </task>
     <servers />
   </component>
