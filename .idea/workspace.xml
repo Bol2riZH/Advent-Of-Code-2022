@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8aec999-c6fe-40ad-a83d-e75c027f298e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Advent-of-code-2022.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Advent-of-code-2022.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day2/ex2-1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Day2/ex2-1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +37,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/00_DATA_B2Rog/Advent-of-code-2022/Day2/input",
+    "last_opened_file_path": "C:/00_DATA_B2Rog/Advent-of-code-2022/Day2",
     "nodejs_interpreter_path": "node",
     "nodejs_package_manager_path": "npm",
     "prettierjs.PrettierConfiguration.Package": "C:\\Users\\reung\\AppData\\Roaming\\npm\\node_modules\\prettier",
@@ -46,8 +47,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\00_DATA_B2Rog\Advent-of-code-2022\Day2\input" />
       <recent name="C:\00_DATA_B2Rog\Advent-of-code-2022\Day2" />
+      <recent name="C:\00_DATA_B2Rog\Advent-of-code-2022\Day2\input" />
       <recent name="C:\00_DATA_B2Rog\Advent-of-code-2022\Day1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -65,7 +66,8 @@
       <option name="presentableId" value="Default" />
       <updated>1670835795858</updated>
       <workItem from="1670835797706" duration="1873000" />
-      <workItem from="1670885954905" duration="3725000" />
+      <workItem from="1670885954905" duration="3962000" />
+      <workItem from="1670916405456" duration="2617000" />
     </task>
     <servers />
   </component>

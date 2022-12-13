@@ -13,7 +13,6 @@ const f = fs.readFileSync(path.join(__dirname, "input/2.txt")).toString();
  win = 6
  loose = 0
  drawn = 3
-
 */
 
 const transformInput = (inputFile) => {
