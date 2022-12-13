@@ -2,13 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8aec999-c6fe-40ad-a83d-e75c027f298e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Advent-of-code-2022.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Advent-of-code-2022.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day1/ex1-1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/ex1-1.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,7 +36,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/00_DATA_B2Rog/Advent-of-code-2022/Day1",
+    "last_opened_file_path": "C:/00_DATA_B2Rog/Advent-of-code-2022/Day2/input",
     "nodejs_interpreter_path": "node",
     "nodejs_package_manager_path": "npm",
     "prettierjs.PrettierConfiguration.Package": "C:\\Users\\reung\\AppData\\Roaming\\npm\\node_modules\\prettier",
@@ -39,9 +46,12 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\00_DATA_B2Rog\Advent-of-code-2022\Day2\input" />
+      <recent name="C:\00_DATA_B2Rog\Advent-of-code-2022\Day2" />
       <recent name="C:\00_DATA_B2Rog\Advent-of-code-2022\Day1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\00_DATA_B2Rog\Advent-of-code-2022\utils" />
       <recent name="C:\00_DATA_B2Rog\Advent-of-code-2022\Day1" />
       <recent name="C:\00_DATA_B2Rog\Advent-of-code-2022\Day1\1-1" />
     </key>
@@ -54,7 +64,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670835795858</updated>
-      <workItem from="1670835797706" duration="1640000" />
+      <workItem from="1670835797706" duration="1873000" />
+      <workItem from="1670885954905" duration="3725000" />
     </task>
     <servers />
   </component>
